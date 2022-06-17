@@ -2,6 +2,8 @@
 
 DEMO: https://hovsep93.github.io/react-router-v6-ninja-course/
 
+buyMeBurger: https://www.buymeacoffee.com/Hovsep93
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
